@@ -42,7 +42,7 @@ const Provide = () => {
                 Great reason for the people choose our service
               </p>
               <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">
-                'COOLFLO' Specializes in high efficiency Axial-flow fans
+                COOLFLO Specializes in high efficiency Axial-flow fans
                 offering High Technology products of Quality with the highest
                 level of Service to the Customer thereby achieve the long-term
                 goals of the organization.
